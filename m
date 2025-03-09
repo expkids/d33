@@ -2,9 +2,9 @@
 //本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 //🐧裙：926953902
 //TG裙：https://t.me/zhongnanganhuoku
-
+ 
 {
-	"spider": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;7F23556C0125733C24A743F1CF0B2C23",
+	"spider": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;107673BCD4C83FA1557A2CB946C08251",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
