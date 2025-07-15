@@ -1,18 +1,24 @@
 {
-  "panOrder": "quark|uc|ali|ty|yd|115|p123###原畫|普畫",
+  "panOrder": "quark|uc|115|p123|ali|yd|ty###原畫|普畫",
   "aliToken": "",
   "quarkCookie": "",
   "ucCookie": "",
   "ucToken": "",
   "ucUt": "",
   "115Cookie": "",
-  "pwdRb115": "",//115 删除码
+  "pwdRb115": "",
+  //115 删除码
   "goServerUrl": "http://127.0.0.1:9966",
-  "ydAuth": "",//请求头中authorization 取basic 后面的值
-  "tyAuth": "",//账号|密码
-  "p123Auth":"",//账号|密码
-  "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理
-  "tgPic": "false",//tgsou 图片显示与否
+  "ydAuth": "",
+  //请求头中authorization 取basic 后面的值
+  "tyAuth": "",
+  //账号|密码
+  "p123Auth":"",
+  //账号|密码
+  "proxy": "http://127.0.0.1:1072",
+  //默认代理端口 留空则使用外置代理:http://12345678:12345678@47.236.191.222:1080
+  "tgPic": "true",
+  //tgsou 图片显示与否
   //每次更新jar 该值都必须更新
-  "exeMd5": "BfbdF/JxkuOknaxWjRo18uwL9YwTe/rkes42+9ENxYaYBYHnXQmpO7KQCghK/clXWsJBbVtrE7cutlH3dJIbq1cXfMplFd74AlCehp0qkphTvrW55aCZlqknl5w5qJZoePvOCPoH7RyvLKnodMRXf3eB/bKWdsfhKVrAIayaUsf1ufnklnVlSSH/47XswZ1SeKTyi49YX5Rx5YmEhd0TDVJxs+Di6cGV5O7dgYO1bRBVVkEz4oOte+/Utj5vr7o61nSoYQIIRLNdzUrCBi4hNwYVA6U2bcpDSaFCuugTrGOLIe5hEB9gJnfQ2SHELC2iBh1lQY/jpdn6mVDfd+5F6Qh8zJmcdNkb/hVxgYfW8aenNaWaDuGsziBfyrfYyodikMiG/lGCOSRVnYfmvxZ5f4M5iO/gCAMGk9CFsLmVYdItvm04KNmXcvJEu6muiLdftKlcEWLgYgl2TQsl2g=="
+  "exeMd5": "V05WYEYFDUnXwHjb/BtVpOg+HL1pVv9BhRfj/hirG0YINkMeLq4VL1LyH7XHwcNCnLXMoa021sQZ6xtuWVh6ukL6CB1zKlxyBZQrTBS7nVJ5o5OF9w5nFDhxiidyj2U3ctqa+Rmxt0jF6B3jwawMoaoLGhvfcwIPpUgGiC3I5RZ8YDtWZ7TAI2vXnCN97Mapergbad6vlfQ5r+NYMsoK1CkNMpxwiadd5hwaeVP+RPCuuBm1Krp8WvbxbabEPKc5xiRmFQVtMs/7YqaOIbU/fwfIttHqpJbfWl77OQASQJZpDOq9Z1Dsrhr1q5mMgF2vZCd660SJYIpk4nXjj+l2SL3uuhTiD6sYWBydG8Xzv3ukT3sme6ZoheVpxYe7ukcO8rBINi3BkKxSNnDV83jMGPXE/GKRKd7C3bZCaCQJClveYadmkzqogsFvfqbDL+LYIZ9MSJCMPikmYLAVeA=="
 }
